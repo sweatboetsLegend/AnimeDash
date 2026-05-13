@@ -1,10 +1,10 @@
 # Anime Speed Simulator Roblox Script 2026
 
-[![Download Now](https://img.shields.io/badge/Download-2026_Version-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)](https://fullsofts.org/)
-[![Latest Release](https://img.shields.io/badge/Release-2026_Update-orange?style=flat-square&logo=github)](https://fullsofts.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows)](https://fullsofts.org/)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://fullsofts.org/)
-[![Roblox](https://img.shields.io/badge/Roblox-Script-FF69B4?style=flat-square&logo=roblox)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-2026_Version-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)](https://tj-kingdeecloud.com/)
+[![Latest Release](https://img.shields.io/badge/Release-2026_Update-orange?style=flat-square&logo=github)](https://tj-kingdeecloud.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows)](https://tj-kingdeecloud.com/)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://tj-kingdeecloud.com/)
+[![Roblox](https://img.shields.io/badge/Roblox-Script-FF69B4?style=flat-square&logo=roblox)](https://tj-kingdeecloud.com/)
 
 ## 🚀 Ultimate Anime Speed Simulator Enhancement
 
@@ -108,7 +108,7 @@ Experience **Anime Speed Simulator** like never before with our 2026 optimized s
 
 ---
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Anime_Speed_Simulator_2026-Click_Here-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Anime_Speed_Simulator_2026-Click_Here-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://tj-kingdeecloud.com/)
 
 **Remember:** Extract archive → Run executable → Enjoy enhanced gameplay!
 
